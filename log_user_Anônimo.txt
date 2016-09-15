@@ -1,0 +1,4 @@
+10:43:16 Anônimo: Oi
+10:43:14 Anônimo: Teste
+Conecção acatada localhost/127.0.0.1:1500
+Bem vindo a sala de Chat
